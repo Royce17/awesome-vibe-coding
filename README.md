@@ -9,6 +9,8 @@ English | [한국어](./README-KR.md) | [中文](./README-ZH.md)
 - [About the concept](#about-the-concept)
 - [Browser-based Tools](#browser-based-tools)
 - [IDEs and Code Editors](#ides-and-code-editors)
+- [Desktop Apps](#desktop-apps)
+- [Mobile Apps](#mobile-apps)
 - [Plugins and Extensions](#plugins-and-extensions)
 - [Command Line Tools](#command-line-tools)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
@@ -24,6 +26,7 @@ English | [한국어](./README-KR.md) | [中文](./README-ZH.md)
 - 🔥 [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
 - 🔥 [Lovable](https://lovable.dev/) - "Idea to app in seconds. Lovable is your superhuman full stack engineer".
 - 🔥 [v0 by Vercel](https://v0.dev/chat) - Assistant to build NextJS frontend.
+- [Firebase](https://firebase.google.com/?hl=zh-cn)
 - [Replit](https://replit.com/) - "Simply describe your idea above and let the Agent build it for you".
 - [Create](https://www.create.xyz/) - "Turn your words into sites, tools, apps and products".
 - [Trickle AI](https://www.trickle.so/) - "Build stunning websites, AI apps, and forms with ease".
