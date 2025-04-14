@@ -43,6 +43,7 @@
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - Agentic IDE，“开发者和 AI 的工作真正融合在一起，带来一种感觉像魔法般的编码体验”。
 - 🔥 [Cursor](https://www.cursor.com/) - AI 代码编辑器，“使用 AI 编码的最佳方式”。
 - [Zed](https://zed.dev/) - 代码编辑器，专为与人类和 AI 进行高性能协作而设计。
+- [Trae](https://www.trae.com.cn/) - 国内首个 AI IDE，深度理解中文开发场景。
 
 ## 桌面应用
 
@@ -60,6 +61,8 @@
 - [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - 一种帮助你构建包含许多代码块的提示的工具。
 - [Augment Code](https://www.augmentcode.com/) - 一款专为专业软件工程师和大型代码库打造的 AI 编码助手。
 - [continuedev/continue](https://github.com/continuedev/continue): 使用我们的开源 IDE 扩展和模型、提示、规则和文档库，构建、共享和使用自定义 AI 代码助手。
+- [文心快码(Baidu Comate)](https://comate.baidu.com/zh)
+- [通义灵码](https://lingma.aliyun.com/)
 
 ## 命令行工具
 
