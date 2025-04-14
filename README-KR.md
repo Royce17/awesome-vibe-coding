@@ -2,7 +2,7 @@
 
 > AI와 협업하여 코드를 작성하는 '바이브 코딩' 참고자료 모음집입니다.
 
-[English](./README.md) | 한국어
+[English](./README.md) | [한국어](./README-KR.md) | [中文](./README-ZH.md)
 
 ## 목차
 - [컨셉 소개](#컨셉-소개)
